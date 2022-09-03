@@ -1,0 +1,4 @@
+---
+title: "Projects and Publications"
+editor: visual
+---

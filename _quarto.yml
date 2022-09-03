@@ -1,0 +1,57 @@
+project:
+  type: website
+  title: "giovanni bader website"
+  execute-dir: project
+  output-dir: docs
+  render: 
+      - index.qmd
+      - my_cv.qmd
+      - bodybuilding.qmd
+      - st_dm_ml.qmd
+      - leaders.qmd
+#      - history.qmd
+#      - astrophysics.qmd
+#      - evidence_generation.qmd
+      - programming.qmd
+      - jeep.qmd
+      - music.qmd
+
+
+
+website:
+  title: " 'Science makes god unnecessary'        S.Hawking"
+
+  navbar:
+    background: secondary
+
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - index.qmd
+      - my_cv.qmd
+      - bodybuilding.qmd
+      - st_dm_ml.qmd
+      - leaders.qmd
+#      - history.qmd
+#      - astrophysics.qmd
+#      - evidence_generation.qmd
+      - programming.qmd
+      - jeep.qmd
+      - music.qmd
+
+  page-navigation: false
+
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+callout-appearance: simple
+
+date: today
+date-format: iso
+
+#jupyter: julia-1.8

@@ -1,0 +1,22 @@
+---
+title: "Evidence Generation for beginners"
+editor: visual
+---
+
+Evidence Generation is a process. In the life science sector it goes like this:
+
+A\) framing the question
+
+B\) check the known (literature) and/or data available (databases, registries)
+
+C\) based on the refined query to opt for:
+
+1.  evidence synthesis with/without meta-analysis
+
+2.  generate new data a) with randomized b) observing a cohort (Priimary Collection of Data)
+
+3.  re-use existing data generated for different purposes (Secondary Use of Data)
+
+Each chapter has tons of books and articles available.
+
+The most important piece in the process is to clearly define the objective of the study and its end-point. These can't change along the execution of the study.

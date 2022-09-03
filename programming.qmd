@@ -1,0 +1,22 @@
+---
+title: "Programming tips"
+editor: visual
+---
+
+Software like SAS and R and Python have some basic built in functions. But more handy or advanced function can be installed later. And because R and Python are free and open system many users are contributing with the creation of new specialized packages.
+
+download and install R https://cran.r-project.org/bin/windows/base/R-4.2.1-win.exe
+
+download and install RStudio https://www.rstudio.com/products/rstudio/download/#download
+
+then you have to import your file to analyse, say excel
+
+`install.packages("readxl")`
+
+`library("readxl")`
+
+`new_file <- read_excel("c:\folder\folder\File_Name.xlsx")`
+
+and now some summary statistics
+
+`summary(new_file)`

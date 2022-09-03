@@ -1,0 +1,39 @@
+---
+title: "Leaders"
+---
+
+I am inspired by (and I plan to explain why):
+
+
+|                 |           |     |
+|-----------------|-----------|-----|
+| Pitagora        | 572-497   |     |
+| Euclide         | 325-265   |     |
+| Aristarch       | 310-230   |     |
+| Archimede       | 287-212   |     |
+| Eratostene      | 267-194   |     |
+| Galileo Galilei | 1564-1642 |     |
+| Cartesio        | 1596-1650 |     |
+| Pascal          | 1624-1662 |     |
+| Newton          | 1642-1727 |     |
+| Leibniz         | 1646-1716 |     |
+| Laplace         | 1749-1827 |     |
+| Gauss           | 1777-1855 |     |
+| Lobacevskij     | 1792-1856 |     |
+| Bolyai          | 1802-1860 |     |
+| Riemann         | 1826-1866 |     |
+| Weierstrass     | 1815-1897 |     |
+| Kronecker       | 1823-1891 |     |
+| Riemann         | 1826-1866 |     |
+| Dedekind        | 1831-1916 |     |
+| Cantor          | 1845-1918 |     |
+| Poincare'       | 1854-1912 |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
+|                 |           |     |
