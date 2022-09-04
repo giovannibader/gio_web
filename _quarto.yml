@@ -19,7 +19,7 @@ project:
 
 
 website:
-  title: " 'Science makes god unnecessary'        S.Hawking"
+  title: " 'Science makes god unnecessary' S.Hawking"
 
   navbar:
     background: secondary
@@ -54,4 +54,4 @@ callout-appearance: simple
 date: today
 date-format: iso
 
-#jupyter: julia-1.8
+jupyter: julia-1.8
